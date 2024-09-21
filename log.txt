@@ -1,0 +1,18 @@
+UserID: 641426588 | Time: 2024-09-21 22:19:05.535087 | Command: /bgmi | Target: 20.204.75.46 | Port: 10283 | Time: 400
+Username: @a3nk17
+Target: 20.204.75.46
+Port: 10283
+Time: 400
+
+UserID: 641426588 | Time: 2024-09-21 22:30:58.219375 | Command: /bgmi | Target: 20.204.75.46 | Port: 10283 | Time: 400
+Username: @a3nk17
+Target: 20.204.75.46
+Port: 10283
+Time: 400
+
+UserID: 641426588 | Time: 2024-09-21 22:32:00.210194 | Command: /bgmi | Target: 20.204.75.46 | Port: 10283 | Time: 400
+Username: @a3nk17
+Target: 20.204.75.46
+Port: 10283
+Time: 400
+
